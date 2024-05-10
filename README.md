@@ -1,2 +1,2 @@
-# ModeloLog-sticoPCA
-Modelo Logístico utilizando PCA para classificação de tumores
+# Modelo Logistico utilizando PCA para classificação de tumores
+Dentro do ambiente Rstudio, foi feito uma análise de componentes principais, a fim de diminuir o tamanho de variáveis do banco e retirar multicolinearidade entre elas, para assim treinarmos um modelo de regressão logística que faz a classificação do tipo de tumor que possui um paciente, de acordo com variáveis explicativas do banco de dados, que se transformaram nos componentes principais.
