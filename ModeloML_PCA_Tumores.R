@@ -93,6 +93,6 @@ confusionMatrix(predicao, dados_teste[,4]) # Conclui-se uma Ácuracia de 92%; Se
 
 
 # Dessa forma, foi encontrado um modelo que se saiu bem para valores fora da amostra original do dados,
-# indicando que o modelo consegue designar bem se o tumor de uma pessoa é Beligno ou Maligno;
+# indicando que o modelo consegue designar bem se o tumor de uma pessoa é Benigno ou Maligno;
 
 
